@@ -1,5 +1,5 @@
 ---
-description: Force due to loading of a lateral ligament.
+description: Force of a lateral ligament due to loading.
 ---
 
 # Probem 4.2.18 (advanced)
