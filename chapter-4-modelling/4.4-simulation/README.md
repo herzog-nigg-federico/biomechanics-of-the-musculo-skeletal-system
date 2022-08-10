@@ -13,11 +13,10 @@
 * Problem 4.4.9: Law of equilibrium of a liver.
 * Problem 4.4.10: Simulation program modification (downhill coasting cyclist).
 * Problem 4.4.11: Simulation program modification (arm movement).
-* Problem 4.4.12:
-* Problem 4.4.13:
-* Problem 4.4.14:
-* Problem 4.4.15:
-* Problem 4.4.16:
-* Problem 4.4.17:
-* Problem 4.4.18:
-* Problem 4.4.19:
+* Problem 4.4.12: Simulation program modification (maximally activated muscle undergoing a ramp shortening protocol).
+* Problem 4.4.13: Simulation program variables (ballistic knee extension).
+* Problem 4.4.14: Simulations for determination of optimal quadriceps moment arm.
+* Problem 4.4.15: Simulation program modification (knee extension).
+* Problem 4.4.16: Simulation of the pitching moment in a javelin.
+* Problem 4.4.17: Steady-state of a differential equation.
+* Problem 4.4.18: Optimal strategy for maximal-distance ski jumping.

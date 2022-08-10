@@ -130,7 +130,5 @@
     * [Problem 4.4.14](chapter-4-modelling/4.4-simulation/problem-4.4.14.md)
     * [Problem 4.4.15](chapter-4-modelling/4.4-simulation/problem-4.4.15.md)
     * [Problem 4.4.16](chapter-4-modelling/4.4-simulation/problem-4.4.16.md)
-    * [Problem 4.4.17](chapter-4-modelling/4.4-simulation/problem-4.4.17.md)
+    * [Problem 4.4.17 (advanced)](chapter-4-modelling/4.4-simulation/problem-4.4.17-advanced.md)
     * [Problem 4.4.18 (advanced)](chapter-4-modelling/4.4-simulation/problem-4.4.18-advanced.md)
-    * [Problem 4.4.19 (advanced)](chapter-4-modelling/4.4-simulation/problem-4.4.19-advanced.md)
-  * [4.5 General Problems](chapter-4-modelling/4.5-general-problems/README.md)

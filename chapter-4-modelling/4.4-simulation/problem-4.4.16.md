@@ -1,5 +1,5 @@
 ---
-description: Simulaiton of the pitching moment in a javelin.
+description: Simulation of the pitching moment in a javelin.
 ---
 
 # Problem 4.4.16

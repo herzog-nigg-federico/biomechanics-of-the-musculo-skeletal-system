@@ -1,9 +1,7 @@
 ---
-description: Steady-state of a differential equation.
+description: Optimal strategy for maximal-distance ski jumping.
 ---
 
 # Problem 4.4.18 (advanced)
 
-Resolve the steady-state of the following differential equation and analyze the stability of the steady-state solution:
-
-$$\qquad \qquad \qquad \qquad \qquad \dot{ν}=\bold{F_0}-bv^2\qquad( \bold{F_0}>0,b>0)$$
+Consider the problem of maximal-distance ski jumping. Assume that the athlete can influence lift, drag, and pitching moment continuously by changing joint angles. Choose a suitable parameterization to find the optimal strategy during flight, assuming constant initial conditions. Solve the problem using typical aerodynamic data from the literature.
