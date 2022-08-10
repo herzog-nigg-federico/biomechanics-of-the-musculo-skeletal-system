@@ -102,6 +102,7 @@
     * [Problem 4.2.14](chapter-4-modelling/4.2-mathematically-determinate-systems/problem-4.2.14.md)
     * [Problem 4.2.15](chapter-4-modelling/4.2-mathematically-determinate-systems/problem-4.2.15.md)
     * [Problem 4.2.16](chapter-4-modelling/4.2-mathematically-determinate-systems/problem-4.2.16.md)
+    * [Problem 4.2.17](chapter-4-modelling/4.2-mathematically-determinate-systems/problem-4.2.17.md)
   * [4.3 Mathematically Indeterminate Systems](chapter-4-modelling/4.3-mathematically-indeterminate-systems/README.md)
     * [Problem 4.3.1](chapter-4-modelling/4.3-mathematically-indeterminate-systems/problem-4.3.1.md)
     * [Problem 4.3.2](chapter-4-modelling/4.3-mathematically-indeterminate-systems/problem-4.3.2.md)
