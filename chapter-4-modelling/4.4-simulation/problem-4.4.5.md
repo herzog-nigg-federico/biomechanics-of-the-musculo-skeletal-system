@@ -1,5 +1,5 @@
 ---
-description: Derivation of a heavy body's gravitational force.
+description: The gravitational force field of a heavy body.
 ---
 
 # Problem 4.4.5

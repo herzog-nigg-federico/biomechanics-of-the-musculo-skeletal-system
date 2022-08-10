@@ -1,5 +1,5 @@
 ---
-description: Derivation of the earth's field of gravity.
+description: The field of gravity near the earths surface.
 ---
 
 # Problem 4.4.4

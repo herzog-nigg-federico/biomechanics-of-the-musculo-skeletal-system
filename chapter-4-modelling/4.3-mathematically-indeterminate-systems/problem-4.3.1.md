@@ -1,5 +1,5 @@
 ---
-description: Minimum of fuctions.
+description: Minimum of a function.
 ---
 
 # Problem 4.3.1
