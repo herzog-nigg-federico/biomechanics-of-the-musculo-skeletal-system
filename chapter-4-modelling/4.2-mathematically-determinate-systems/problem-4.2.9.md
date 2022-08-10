@@ -26,4 +26,4 @@ Determine the influence of the elastic and viscous elements that cushion the gro
 
 ![Figure 4.2.7: Illustration of the mechanical model used in this example (from Nigg & Anton, 1995, with permission).](<../../.gitbook/assets/Problem 4.2.9.JPG>)
 
-![Fifure 4.2.8: FBD of the two particle model for the energy demand considerations during running.](<../../.gitbook/assets/Problem 4.2.9 b.JPG>)
+![Fifure 4.2.8: FBD of the two particle model for the energy demand considerations during running.](<../../.gitbook/assets/Problem 4.2.9 b (1).JPG>)
