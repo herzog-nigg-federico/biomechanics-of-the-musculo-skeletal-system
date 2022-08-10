@@ -106,6 +106,7 @@
   * [4.3 Mathematically Indeterminate Systems](chapter-4-modelling/4.3-mathematically-indeterminate-systems/README.md)
     * [Problem 4.3.1](chapter-4-modelling/4.3-mathematically-indeterminate-systems/problem-4.3.1.md)
     * [Problem 4.3.2](chapter-4-modelling/4.3-mathematically-indeterminate-systems/problem-4.3.2.md)
+    * [Problem 4.3.3](chapter-4-modelling/4.3-mathematically-indeterminate-systems/problem-4.3.3.md)
   * [4.4 Simulation](chapter-4-modelling/4.4-simulation/README.md)
     * [Problem 4.4.1](chapter-4-modelling/4.4-simulation/problem-4.4.1.md)
     * [Problem 4.4.2](chapter-4-modelling/4.4-simulation/problem-4.4.2.md)
