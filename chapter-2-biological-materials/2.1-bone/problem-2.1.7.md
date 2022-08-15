@@ -11,8 +11,8 @@ A cylindrical bone (illustrated in Figure 2.1.6) has the outer radius, $$R$$, an
 #### Assumptions
 
 1. The structure is cylindrical.
-2. The outer radius is $$R = 3 \space cm$$.
-3. The force acts parallel to the symmetry axis at the edge of the cylindrical structure and has a magnitude of $$F = 1000 \space N$$.
+2. The outer radius is $$R = 3 cm$$.
+3. The force acts parallel to the symmetry axis at the edge of the cylindrical structure and has a magnitude of $$F = 1000 N$$.
 4. The structure is firmly anchored in the ground.&#x20;
 5. The length-width ratio of the structure is large.
 

@@ -6,7 +6,7 @@ description: >-
 
 # Problem 2.1.3
 
-A force of $$4000 \space N$$ acts at a distance $$60 \space mm$$ from the axis of the structure where we consider several idealized bone cross-sectional areas as illustrated (Figure 2.1.3). Determine the moment of inertia and the maximum bending stress for each section. The inner and outer radii for each section are given as follows:&#x20;
+A force of $$4000 N$$ acts at a distance $$60 mm$$ from the axis of the structure where we consider several idealized bone cross-sectional areas as illustrated (Figure 2.1.3). Determine the moment of inertia and the maximum bending stress for each section. The inner and outer radii for each section are given as follows:&#x20;
 
 | Cross-section | Inner Radius (mm) | Outer Radius (mm) |                 Description                 |
 | :-----------: | :---------------: | :---------------: | :-----------------------------------------: |

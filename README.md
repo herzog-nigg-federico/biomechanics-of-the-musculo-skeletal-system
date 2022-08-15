@@ -7,3 +7,5 @@ Here you can find problems and solutions for the chapters listed in the book.
 ### $$\quad$$Chapter 2: Biological Materials
 
 ### $$\quad$$Chapter 3: Measuring Techniques
+
+### $$\quad$$Chapter 4: Modelling
