@@ -12,6 +12,4 @@ Modify the program in Listing 3 to include the eccentric part of the force-veloc
 
 (b) At high eccentric velocities, the muscle force approaches 1.5 asymptotically. Use the modified program to simulate isokinetic lengthening protocols.
 
-
-
-_<mark style="color:blue;">Listing 3: Matlab program for simulation of a maximally activated muscle undergoing a ramp shortening protocol. The program can be downloaded from: http://www.bme.ccf.org/isb/tgcs/software/bogert.</mark>_
+![Listing 3: Matlab program for simulation of a maximally activated muscle undergoing a ramp shortening protocol. The program can be downloaded from: http://www.bme.ccf.org/isb/tgcs/software/bogert.](<../../.gitbook/assets/listing 3.JPG>)

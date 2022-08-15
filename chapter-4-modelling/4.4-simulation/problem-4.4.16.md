@@ -10,6 +10,4 @@ description: Simulation of the pitching moment in a javelin.
 
 (c) Add the effect of wind to the simulation of javelin flight. How should the release strategy be modified by the athlete in the presence of wind?
 
-
-
-_<mark style="color:blue;">Listing 5: Matlab function for simulation of javelin flight. The program can be downloaded from: http://www.bme.ccf.org/isb/tgcs/software/bogert.</mark>_
+![Listing 5: Matlab function for simulation of javelin flight. The program can be downloaded from: http://www.bme.ccf.org/isb/tgcs/software/bogert.](<../../.gitbook/assets/listing 5.JPG>)
